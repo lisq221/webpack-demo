@@ -1,1 +1,1 @@
-const a = 5
+const sum=(o,s)=>o+s;console.log(sum(5,6));
